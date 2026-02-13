@@ -43,7 +43,7 @@ public class CityList {
     }
 
     /**
-     * This deletes the passed city from the list. Throws NoSuchElementException if
+     * This deletes the passed city from the list <br> Throws NoSuchElementException if
      * the city passed is not in the list
      * @param city
      *      The City object to delete

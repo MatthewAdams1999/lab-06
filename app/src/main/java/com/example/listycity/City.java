@@ -1,7 +1,7 @@
 package com.example.listycity;
 
 /**
- * This is a class that defines a City with a name and province
+ * This is a class that defines a City with a name and province <br>
  * Implements Comparable to allow sorting by city name.
  */
 public class City implements Comparable {
